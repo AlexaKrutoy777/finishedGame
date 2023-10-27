@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2653a466d7f40b240bff11804dc642d2
+  - enabled: 1
+    path: Assets/Scenes/LevelsScene.unity
+    guid: e855be53d01f88940b0b820929a82c2c
+  - enabled: 1
+    path: Assets/Scenes/QuessCard_1.unity
+    guid: 7316bf38cbc266044bdba60ec8a68133
+  - enabled: 1
+    path: Assets/Scenes/QuessCard_2.unity
+    guid: 3659ab72aa1fe0c4c97ade56ce7bbfbe
+  - enabled: 1
+    path: Assets/Scenes/QuessCard_3.unity
+    guid: 2fc92e6e03c2a9e4f9f9acc1905fa5dc
+  - enabled: 1
+    path: Assets/Scenes/QuessCard_4.unity
+    guid: 81b93929b4add334f8770f1205aff475
+  - enabled: 1
+    path: Assets/Scenes/QuessCard_5.unity
+    guid: f01cf23b6d4e5c14aa6039f01ddaf13c
+  m_configObjects: {}
